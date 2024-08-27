@@ -22,6 +22,9 @@ class Paciente:
         self.__genero=g
     def asignarCedula(self,c):
         self.__cedula = c
+    def user(self,j):
+        pass
+
 
 class Sistema:
     def __init__(self):
